@@ -1,10 +1,20 @@
+<<<<<<< HEAD
 body {
     color: white;
-    background: black;
+    background: blue;
     margin: 0px;
     font-family: "Chakra Petch", sans-serif;
     margin-bottom: 100px;
 }
+=======
+body {
+    color: white;
+    background: blue;
+    margin: 0px;
+    font-family: "Chakra Petch", sans-serif;
+    margin-bottom: 100px;
+}
+>>>>>>> d62988192d908f74eda6102131a7d91f2c697a3d
 
 header {
     border-bottom: solid 2px rgb(42, 122, 228);
